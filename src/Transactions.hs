@@ -35,7 +35,7 @@ transaction2 =
   Transaction
     { trAmount = 7
     , trFrom   = "Lars"
-    , trTo     = "Philipp"
+    , trTo     = "Alejandro"
     }
 
 -- Task Transactions-1.
